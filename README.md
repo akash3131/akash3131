@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akash
+- 👀 I’m interested in Python, OpenCV 
+- 🌱 I’m currently learning Opencv
+- 💞️ I’m looking to collaborate on Opencv projects
